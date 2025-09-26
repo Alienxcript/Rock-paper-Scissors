@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-This is a simple **Rock Paper Scissors** game written in Python.
+This is a simple **Rock Paper Scissors** game written in Python by Nova Lightsilver
 
 ## How to Play
 
@@ -12,6 +12,3 @@ This is a simple **Rock Paper Scissors** game written in Python.
 or 
 
 simply run the .py file directly
-
-```bash
-python final_game_RPS.py
